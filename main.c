@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void say_hello(void){
-    return a+b;
+int say_hello(int a, int b){
+    return a + b;
 }
 
 int main(void){

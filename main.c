@@ -5,6 +5,11 @@ void say_hello(void){
     return;
 }
 
+void say_hello(void){
+    printf("test");
+    return;
+}
+
 int main(void){
     printf("Hello world");
     return 0;

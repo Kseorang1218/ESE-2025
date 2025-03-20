@@ -5,7 +5,7 @@ void say_hello(void){
     return;
 }
 
-void say_hello(void){
+void say_hello2(void){
     printf("test");
     return;
 }

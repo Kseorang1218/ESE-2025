@@ -1,12 +1,7 @@
 #include <stdio.h>
 
 void say_hello(void){
-    printf("Hello! M");
-    return;
-}
-
-void say_hello(void){
-    printf("test");
+    printf("New Hello!!\n");
     return;
 }
 

@@ -6,7 +6,7 @@ void say_hello(void){
 }
 
 void Newfun(void){
-    printf("test");
+    printf("con");
     return;
 }
 
